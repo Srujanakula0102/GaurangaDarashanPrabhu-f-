@@ -13,10 +13,7 @@
     margin-top: 15px;
     color: #f8b712;
 }
-#top{
-    position:fixed;
-    padding: 40px;
-}
+
  .banner {    
     background-image: url(banner.jpg);
 background-size: cover;
@@ -184,11 +181,12 @@ align-items: end;
         
          /* Show the toggle button on mobile */
     }
-    #top{
-    position:fixed;
-    padding: 40px;
-        margin-top:10px;
-}
+   .navbar{
+        position:fixed;
+        padding: 20px;
+        margin-top: 20px;
+        
+    }
     .mySidenav{
         height: 200px;
     }
